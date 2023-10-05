@@ -29,5 +29,6 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dattatrik&" alt="dattatrik" /></p>
+<p><img align="center" src="![image](https://github.com/Dattatrik/Dattatrik/assets/56286019/84f8e463-4f67-4986-bd23-d643edcc1b44)
+" alt="dattatrik" /></p>
 
